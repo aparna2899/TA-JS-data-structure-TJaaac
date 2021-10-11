@@ -4,7 +4,7 @@ let students = {};
 
 // 2. Add a key of the value of variable `studentName` in the object created above with the value of your name.
 
-students["studentName"] = 'Aparna';
+students["studentName"] = "Aparna";
 
 // 3. Using `console.log` log the value of `studentName` key from the `students` object
 
