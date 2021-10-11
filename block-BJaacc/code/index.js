@@ -40,7 +40,7 @@ Object.keys(students).length;
 
 // 11. Can you define a key of `let or var` in any object? Reason.
 
-//Yes. Because the key of an object is a string, so 'let' is different from keyword let.
+students.let = let;
 
 // 12. Delete the `isAdult` property from the object `students`. Also, print the object before or after deleting the property
 
